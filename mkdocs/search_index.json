@@ -22,36 +22,11 @@
         }, 
         {
             "location": "/theory/", 
-            "text": "\u30ad\u30e3\u30ea\u30a2\u7406\u8ad6\n\n\n\u30c9\u30ca\u30eb\u30c9\u30fbE\u30fb\u30b9\u30fc\u30d1\u30fc\n\n\n\u30b8\u30e7\u30f3\u30fbL\u30fb\u30db\u30e9\u30f3\u30c9\n\n\n\u30ca\u30f3\u30b7\u30fc\u30fbK\u30fb\u30b7\u30e5\u30ed\u30b9\u30d0\u30fc\u30b0\n\n\n\u30b8\u30e7\u30f3\u30fbD\u30fb\u30af\u30eb\u30f3\u30dc\u30eb\u30c4\n\n\nL\u30fb\u30b5\u30cb\u30fc\u30fb\u30cf\u30f3\u30bb\u30f3\n\n\n\u30a8\u30c9\u30ac\u30fc\u30fbH\u30fb\u30b7\u30e3\u30a4\u30f3\n\n\n\u30c0\u30b0\u30e9\u30b9\u30fbT\u30fb\u30db\u30fc\u30eb\n\n\n\u30de\u30fc\u30af\u30fbL\u30fb\u30b5\u30d3\u30ab\u30b9", 
+            "text": "Note\n\n\n\n\n\u307e\u3060\u3054\u5b58\u547d\uff01\n\n\nL\u30fb\u30b5\u30cb\u30fc\u30fb\u30cf\u30f3\u30bb\u30f3\n\n\n\u30a8\u30c9\u30ac\u30fc\u30fbH\u30fb\u30b7\u30e3\u30a4\u30f3\n\n\n\u30c0\u30b0\u30e9\u30b9\u30fbT\u30fb\u30db\u30fc\u30eb\n\n\n\u30de\u30fc\u30af\u30fbL\u30fb\u30b5\u30d3\u30ab\u30b9", 
             "title": "Theory"
         }, 
         {
-            "location": "/theory/#_1", 
-            "text": "", 
-            "title": "\u30ad\u30e3\u30ea\u30a2\u7406\u8ad6"
-        }, 
-        {
-            "location": "/theory/#e", 
-            "text": "", 
-            "title": "\u30c9\u30ca\u30eb\u30c9\u30fbE\u30fb\u30b9\u30fc\u30d1\u30fc"
-        }, 
-        {
             "location": "/theory/#l", 
-            "text": "", 
-            "title": "\u30b8\u30e7\u30f3\u30fbL\u30fb\u30db\u30e9\u30f3\u30c9"
-        }, 
-        {
-            "location": "/theory/#k", 
-            "text": "", 
-            "title": "\u30ca\u30f3\u30b7\u30fc\u30fbK\u30fb\u30b7\u30e5\u30ed\u30b9\u30d0\u30fc\u30b0"
-        }, 
-        {
-            "location": "/theory/#d", 
-            "text": "", 
-            "title": "\u30b8\u30e7\u30f3\u30fbD\u30fb\u30af\u30eb\u30f3\u30dc\u30eb\u30c4"
-        }, 
-        {
-            "location": "/theory/#l_1", 
             "text": "", 
             "title": "L\u30fb\u30b5\u30cb\u30fc\u30fb\u30cf\u30f3\u30bb\u30f3"
         }, 
@@ -66,7 +41,7 @@
             "title": "\u30c0\u30b0\u30e9\u30b9\u30fbT\u30fb\u30db\u30fc\u30eb"
         }, 
         {
-            "location": "/theory/#l_2", 
+            "location": "/theory/#l_1", 
             "text": "", 
             "title": "\u30de\u30fc\u30af\u30fbL\u30fb\u30b5\u30d3\u30ab\u30b9"
         }
