@@ -3,7 +3,7 @@
         {
             "location": "/", 
             "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Home"
+            "title": "Top"
         }, 
         {
             "location": "/#welcome-to-mkdocs", 
@@ -19,6 +19,51 @@
             "location": "/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/theory/", 
+            "text": "\u30c9\u30ca\u30eb\u30c9\u30fbE\u30fb\u30b9\u30fc\u30d1\u30fc\n\n\n\u30b8\u30e7\u30f3\u30fbL\u30fb\u30db\u30e9\u30f3\u30c9\n\n\n\u30ca\u30f3\u30b7\u30fc\u30fbK\u30fb\u30b7\u30e5\u30ed\u30b9\u30d0\u30fc\u30b0\n\n\n\u30b8\u30e7\u30f3\u30fbD\u30fb\u30af\u30eb\u30f3\u30dc\u30eb\u30c4\n\n\nL\u30fb\u30b5\u30cb\u30fc\u30fb\u30cf\u30f3\u30bb\u30f3\n\n\n\u30a8\u30c9\u30ac\u30fc\u30fbH\u30fb\u30b7\u30e3\u30a4\u30f3\n\n\n\u30c0\u30b0\u30e9\u30b9\u30fbT\u30fb\u30db\u30fc\u30eb\n\n\n\u30de\u30fc\u30af\u30fbL\u30fb\u30b5\u30d3\u30ab\u30b9", 
+            "title": "Theory"
+        }, 
+        {
+            "location": "/theory/#e", 
+            "text": "", 
+            "title": "\u30c9\u30ca\u30eb\u30c9\u30fbE\u30fb\u30b9\u30fc\u30d1\u30fc"
+        }, 
+        {
+            "location": "/theory/#l", 
+            "text": "", 
+            "title": "\u30b8\u30e7\u30f3\u30fbL\u30fb\u30db\u30e9\u30f3\u30c9"
+        }, 
+        {
+            "location": "/theory/#k", 
+            "text": "", 
+            "title": "\u30ca\u30f3\u30b7\u30fc\u30fbK\u30fb\u30b7\u30e5\u30ed\u30b9\u30d0\u30fc\u30b0"
+        }, 
+        {
+            "location": "/theory/#d", 
+            "text": "", 
+            "title": "\u30b8\u30e7\u30f3\u30fbD\u30fb\u30af\u30eb\u30f3\u30dc\u30eb\u30c4"
+        }, 
+        {
+            "location": "/theory/#l_1", 
+            "text": "", 
+            "title": "L\u30fb\u30b5\u30cb\u30fc\u30fb\u30cf\u30f3\u30bb\u30f3"
+        }, 
+        {
+            "location": "/theory/#h", 
+            "text": "", 
+            "title": "\u30a8\u30c9\u30ac\u30fc\u30fbH\u30fb\u30b7\u30e3\u30a4\u30f3"
+        }, 
+        {
+            "location": "/theory/#t", 
+            "text": "", 
+            "title": "\u30c0\u30b0\u30e9\u30b9\u30fbT\u30fb\u30db\u30fc\u30eb"
+        }, 
+        {
+            "location": "/theory/#l_2", 
+            "text": "", 
+            "title": "\u30de\u30fc\u30af\u30fbL\u30fb\u30b5\u30d3\u30ab\u30b9"
         }
     ]
 }
